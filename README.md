@@ -1,6 +1,4 @@
-# Homework 2 
 # Elisabeth Molen 
-# CS 300
 
 This project contains a Makefile:
 - To compile: make
