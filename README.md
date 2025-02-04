@@ -54,7 +54,7 @@ Strategy Pattern
 
 
 Discussion of Challenges and Future Improvements:
-- This assignment was very helpful for exploring inheritance, polymorphism, and design patterns.
+- This project was very helpful for exploring inheritance, polymorphism, and design patterns.
 - One of my early challenges was determining how to track dates and times. I wanted my program to be able to interact with time since epoch, so I could implement the isUpcoming() method.  Eventually, I found the ctime library, which helped me in my design.
 - I also ran into some challenges implementing my Session struct within my Conference class.  However, I am very glad I attempted this feature because it helped me better understand pointers and polymorphism.
 - Finally, the project is not perfectly adjusted to account for user error when making selections. I attempted to account for many situations where user error could cause major issues in the program (by having the program terminate rather than, for example, enter an infinite loop).  However, there are likely existing places where improvements could be made.
